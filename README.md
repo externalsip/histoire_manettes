@@ -84,7 +84,17 @@ La console en elle même ne s'est pas très bien vendue, la raison? La date de s
 
 ## Nintendo Wii
 
-La nintendo Wii fut l'une des consoles avec une manette les plus particulières dans les consoles récentes, car celle-ci n'était pas fait sur le large, mais plutôt sur le long. Similaire à une manette de télévision, mais avec beaucoup moins de boutons, d'ailleurs, il existe au Japon une version de la manette qui est une télécommande de télévision.
+La nintendo Wii fut l'une des consoles avec une manette les plus particulières dans les consoles récentes, car celle-ci n'était pas fait sur le large, mais plutôt sur le long. Similaire à une manette de télévision, mais avec beaucoup moins de boutons, d'ailleurs, il existe au Japon une version de la manette qui est une télécommande de télévision. On pouvait également attacher un nunchuck, sur lequel il y avait un joystick pour les jeux qui en avaient besoin.
+
+![Wii_Manette](media/WiiManette.jpeg)
+
+La wii à été une console qui n'était pas vendue comme hardcore, mais plutôt comme une console de famille, le public cible était les gens qui n'avaient pas beaucoup d'expérience avec les consoles, ou bien simplement aucune expérience. Les résultats: 101 millions d'unitées vendues.
+
+## Nintendo Wii U
+
+Probablement la console la plus incomprie de l'histoire, elle était également très très mal expliquée. Beaucoup de monde ont simplement crus que c'était un accessoire pour la wii. Car la seule chose qu'il y avait de différent entre les deux consoles était le Wii U gamepad. Qui est d'ailleurs la manette dont je parlais plus tôt, la seule manette où les boutons start et select, car au centre il y avait un écran. 
+
+
 
 
 
