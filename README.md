@@ -52,6 +52,14 @@ Sortie en 1983 au Japon et en 1985 en Amérique La première console de Nintendo
 
 Le successeur de la NES, avec une manette encore meilleure, elle a d'ailleurs eu un impact plus grand que ce que certains pourraient penser, je revienderai à cela à la prochaine manette. Mais la manette en elle même était l'une des manettes vue comme les meilleures. Avec une forme beaucoup plus amicale envers les mains que la dernière, et un setup de bouton devenu standart aujourd'hui avec 4 boutons sur la droite de la manette.
 
+![SnesManette](media/SnesManette.jpg)
+
+Sortie en 1990 au Japon et en 1991 en Amérique. La console ne s'est pas vendue aussi bien que la NES originale, mais cela ne change pas que la console était supérieur dans tout les départements.
+
+## Playstation 1
+
+Comme je disait plus tôt, la manette de la Snes a eu plus d'impact que ce qu'on pourrait penser, la raison pour cela était que l'extension N64 DD pour la Nintendo 64, ce qui permettait d'utiliser des disques sur la console. Qui à été développé en coopération avec Philipps, ce qui a d'ailleurs permi à cette compagnie de publier quelques jeux des franchises Nintendo sur leurs propre console, la Philipps CDI, Ces jeux sont très particuliers. Mais pour en revenir avec l'alliance entre les deux compagnies, Nintendo voulait originalement travailler avec Sony, mais ceux-ci on fini par couper le deal juste avant que le produit sois terminé, et lorsqu'ils sont partis, ils on pris le design de la manette de la Snes pour leur propre manette, et ont pris la technologie pour crée le lecteur DVD de la playstation.
+
 
 
 
