@@ -44,6 +44,16 @@ La première console publiée par l'un des producteurs encore existants aujourd'
 
 Maintenant, la variante globale de la manette, pour commencer, Le D-Pad, ou bien la croix. La NES fut la première console avec ce bouton, ce qui était beaucoup plus pratique qu'un joystick pour jouer aux jeux sortis sur cette console, car comme le D-Pad, il n'était seulement possible de bouger dans 4 directions. Cette manette a standarisé le design des manettes suite à elle, avec les direction sur la gauche, les boutons d'action sur la droite plus deux boutons au centre, start et select. Une convention suivie par tout les manettes sorties suite à elle, sauf une certaine manette dont on parlera plus tard.
 
+![NesManette](media/NESManette.jpg)
+
+Sortie en 1983 au Japon et en 1985 en Amérique La première console de Nintendo a reparti le marché des jeux vidéos en Amérique. Si cette console ne se serait pas bien vendue en Amérique, le monde serait probablement relativement différent. La console s'est vendue à 61 millions d'unitées globalement.
+
+## Super Nintendo
+
+Le successeur de la NES, avec une manette encore meilleure, elle a d'ailleurs eu un impact plus grand que ce que certains pourraient penser, je revienderai à cela à la prochaine manette. Mais la manette en elle même était l'une des manettes vue comme les meilleures. Avec une forme beaucoup plus amicale envers les mains que la dernière, et un setup de bouton devenu standart aujourd'hui avec 4 boutons sur la droite de la manette.
+
+
+
 
 
 
