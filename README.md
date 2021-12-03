@@ -10,7 +10,7 @@ Sortie originalement aux États-Unis en 1972, La Magnavox Odyssey est la premiè
 
 ![Magnavox_Odyssey_manette](media/MagnavoxOdysseyManette.jpg)
 
-À mon avis, parler de cette console peut être très intéressant, car il faut penser que c'est de ce modèle que tout les autres manettes qui sont sorties viennent, c'était le point d'origine. La Magnavox Odyssey fut la première console à être commercialisée, elle était très primitive. Mais il fallait commencer quelque part. La console s'est vendue à 350 000 unitées, ce qui est très petit, mais encore une fois, c'était la création d'un nouveau marché.
+À mon avis, parler de cette console peut être très intéressant, car il faut penser que c'est de ce modèle que tout les autres manettes qui sont sorties viennent, c'était le point d'origine. La Magnavox Odyssey fut la première console à être commercialisée, elle était très primitive. Mais il fallait commencer quelque part. Développée par Sanders Associates et manufacturée par Magnavox, la console s'est vendue à 350 000 unitées, ce qui est très petit, mais encore une fois, c'était la création d'un nouveau marché.
 
 
 ## Intellivision
@@ -21,5 +21,22 @@ Contrairement à la Magnavox Odyssey qui n'avait pas beaucoup de boutons, l'Inte
 ![Intellivision_Manette](media/IntellivisionManette.jpg)
 
 L'intellivision est l'une des seules consoles ayant étée publiées par Mattel. Ayant Vendu plus ou moins 3 millions d'unitées. Aditionnellement, en plus de la manette il était possible d'utiliser un accessoire de clavier. utile pour certains jeux.
+
+![Intellivision_Clavier](media/IntellivisionClavier.jpg)
+
+
+## Atari 2600
+
+Une des consoles rétro les plus connues, et également une des consoles avec une manette commençant à avoir l'air de quelque chose qui pourrait être utilisé pour jouer à des jeux. 
+
+
+
+
+
+
+
+
+
+
 
 
