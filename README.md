@@ -94,7 +94,13 @@ La wii à été une console qui n'était pas vendue comme hardcore, mais plutôt
 
 Probablement la console la plus incomprie de l'histoire, elle était également très très mal expliquée. Beaucoup de monde ont simplement crus que c'était un accessoire pour la wii. Car la seule chose qu'il y avait de différent entre les deux consoles était le Wii U gamepad. Qui est d'ailleurs la manette dont je parlais plus tôt, la seule manette où les boutons start et select, car au centre il y avait un écran. 
 
+![Wii_U_Gamepad](media/WiiUGamepad.png)
 
+Le Gamepad était plus ou moins la seule différence matérielle entre la Wii et la Wii U, car les autres joueurs utilisaient des WiiMotes. La console s'est vendue à 13 millions d'unitées.
+
+## Playstation 5
+
+La manette de la console la plus récente, 
 
 
 
