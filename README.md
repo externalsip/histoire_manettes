@@ -27,7 +27,18 @@ L'intellivision est l'une des seules consoles ayant étée publiées par Mattel.
 
 ## Atari 2600
 
-Une des consoles rétro les plus connues, et également une des consoles avec une manette commençant à avoir l'air de quelque chose qui pourrait être utilisé pour jouer à des jeux. 
+Une des consoles rétro les plus connues, et également une des consoles avec une manette commençant à avoir l'air de quelque chose qui pourrait être utilisé pour jouer à des jeux. Quelque chose qui n'est pas une boîte avec de boutons rotatifs ou un clavier de téléphone.
+
+![Atari2600_Manette](media/Atari2600Manette.jpg)
+
+Le design de cette manette est iconique, avec un simple joystick et un bouton. Il manque encore une chose qui sera présent sur la majoritée des manettes plus tard. Le D-Pad, qui apparaîtera pour la première fois sur la manette de la NES.
+
+Publiée par Atari en 1977, la console a vendue 30 Millions d'unitées, elle a été la console qui a popularisée le jeu vidéo. Pour ensuite crasher le marché après la publication de certains jeux, c'est-à=dire E-T et Pac-man Atari 2600. Ces jeux étaient extrêmement mauvais et ont ruinés la confiance des clients en la compagnie, ce qui a plus ou moins signé l'arrêt de mort de Atari en tant que compagnie majeure dans l'industrie.
+
+
+## Nintendo Entertainment System
+
+La première console publiée par l'un des producteurs encore existants aujourd'hui, sortie originalement en 1983 avec un design totalement différent, sous le nom du family computer (Famicom) Les seules différences majeures entre la version japonaise et la version globale de la console se trouvent dans les manettes 
 
 
 
