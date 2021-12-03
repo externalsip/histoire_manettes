@@ -76,7 +76,17 @@ Sortie en 1998 au Japon et 1999 globalement, la Dreamcast fut l'une des consoles
 
 La manette de la Nintendo Gamecube est une manette encore utilisée par certains jeux, Super Smash Bros pour être plus précis, cette manette est très bonne, mais en même temps ne fait pas beaucoup de sense, certaines choses sont étranges sur cette manette, l'absence d'un second bouton z, Le D-Pad est beaucoup trop sensible et petit et Le joystick C est très petit.
 
-![Gamecube_Manette](media/
+![Gamecube_Manette](media/GamecubeManette.png)
+
+La console en elle même ne s'est pas très bien vendue, la raison? La date de sortie, la console est sortie le 14 septembre 2001 au japon en en novembre de la même année en amérique, disons que ce n'était pas une période de temps où les gens étaient très intéressés en acheter une console. Mais je veux également parler d'une manette étrange qui a été crée pour un seul jeu en particulier. Phantasy Star Online, oui un mmo, c'est pourquoi cette manette est équipé d'un clavier au complet.
+
+![Gamecube_Clavier](media/GamecubeClavier.jpg)
+
+## Nintendo Wii
+
+La nintendo Wii fut l'une des consoles avec une manette les plus particulières dans les consoles récentes, car celle-ci n'était pas fait sur le large, mais plutôt sur le long. Similaire à une manette de télévision, mais avec beaucoup moins de boutons, d'ailleurs, il existe au Japon une version de la manette qui est une télécommande de télévision.
+
+
 
 
 
