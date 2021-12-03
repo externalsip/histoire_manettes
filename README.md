@@ -38,7 +38,15 @@ Publiée par Atari en 1977, la console a vendue 30 Millions d'unitées, elle a �
 
 ## Nintendo Entertainment System
 
-La première console publiée par l'un des producteurs encore existants aujourd'hui, sortie originalement en 1983 avec un design totalement différent, sous le nom du family computer (Famicom) Les seules différences majeures entre la version japonaise et la version globale de la console se trouvent dans les manettes 
+La première console publiée par l'un des producteurs encore existants aujourd'hui, sortie originalement en 1983 avec un design totalement différent, sous le nom du family computer (Famicom) Les seules différences majeures entre la version japonaise et la version globale de la console se trouvent dans les manettes. Car il n'était pas possible de les débrancher de la console, les fils étaient d'ailleurs très cours car la plupart des japonais jouaient avec la console alors qu'ils étaient assis par terre. Également, la seconde manette était équipée d'un microphone.
+
+![FamicomManette](media/FamicomManette.jpg)
+
+Maintenant, la variante globale de la manette, pour commencer, Le D-Pad, ou bien la croix. La NES fut la première console avec ce bouton, ce qui était beaucoup plus pratique qu'un joystick pour jouer aux jeux sortis sur cette console, car comme le D-Pad, il n'était seulement possible de bouger dans 4 directions. Cette manette a standarisé le design des manettes suite à elle, avec les direction sur la gauche, les boutons d'action sur la droite plus deux boutons au centre, start et select. Une convention suivie par tout les manettes sorties suite à elle, sauf une certaine manette dont on parlera plus tard.
+
+
+
+
 
 
 
