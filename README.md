@@ -15,4 +15,11 @@ Sortie originalement aux États-Unis en 1972, La Magnavox Odyssey est la premiè
 
 ## Intellivision
 
-Contrairement à la Magnavox Odyssey qui n'avait pas beaucoup de boutons, l'Intellivision dépasse tout les attentes, et apporte une manette avec beaucoup, beaucoup trop de boutons.
+Contrairement à la Magnavox Odyssey qui n'avait pas beaucoup de boutons, l'Intellivision dépasse tout les attentes, et apporte une manette avec beaucoup, beaucoup trop de boutons. L'idée de la manette était que chaque jeu venait avec morceau de carton à mettre sur la manette, le problème étant, comme les boutons faisait quelque chose de différent dans chaque jeux, sans avoir de conventions comme aujourd'hui (exemple: gachette droite= tirer dans les ou bien A ou X= avancer des dialogues) ce qui rendait impossible de jouer aux jeux sans devoir constament regarder ses mains.
+
+
+![Intellivision_Manette](media/IntellivisionManette.jpg)
+
+L'intellivision est l'une des seules consoles ayant étée publiées par Mattel. Ayant Vendu plus ou moins 3 millions d'unitées. Aditionnellement, en plus de la manette il était possible d'utiliser un accessoire de clavier. utile pour certains jeux.
+
+
