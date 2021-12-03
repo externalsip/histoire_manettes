@@ -58,13 +58,19 @@ Sortie en 1990 au Japon et en 1991 en Amérique. La console ne s'est pas vendue 
 
 ## Playstation 1
 
-Comme je disait plus tôt, la manette de la Snes a eu plus d'impact que ce qu'on pourrait penser, la raison pour cela était que l'extension N64 DD pour la Nintendo 64, ce qui permettait d'utiliser des disques sur la console. Qui à été développé en coopération avec Philipps, ce qui a d'ailleurs permi à cette compagnie de publier quelques jeux des franchises Nintendo sur leurs propre console, la Philipps CDI, Ces jeux sont très particuliers. Mais pour en revenir avec l'alliance entre les deux compagnies, Nintendo voulait originalement travailler avec Sony, mais ceux-ci on fini par couper le deal juste avant que le produit sois terminé, et lorsqu'ils sont partis, ils on pris le design de la manette de la Snes pour leur propre manette, et ont pris la technologie pour crée le lecteur DVD de la playstation.
+Comme je disait plus tôt, la manette de la Snes a eu plus d'impact que ce qu'on pourrait penser, la raison pour cela était que l'extension N64 DD pour la Nintendo 64, ce qui permettait d'utiliser des disques sur la console. Qui à été développé en coopération avec Philipps, ce qui a d'ailleurs permi à cette compagnie de publier quelques jeux des franchises Nintendo sur leurs propre console, la Philipps CDI, Ces jeux sont très particuliers. Mais pour en revenir avec l'alliance entre les deux compagnies, Nintendo voulait originalement travailler avec Sony, mais ceux-ci on fini par couper le deal juste avant que le produit sois terminé, et lorsqu'ils sont partis, ils on pris le design de la manette de la Snes pour leur propre manette qui est essentiellement une manette de Snes avec des gachettes, et ont pris la technologie pour crée le lecteur DVD de la playstation.
 
+![Playstation_1_Manette](media/Ps1Manette.jpg)
 
+Plus tard dans la vie de la console, Sony sortent la manette DualShock-1 et le desing de cette manette fut plus ou moins calqué pour les manettes de Ps2 à Ps4. En d'autre mots, nous ne retournerons pas beaucoup à Sony pendant cette présentation.
 
+## Sega Dreamcast
 
+La seule console avec une manette réelement unique venant de Sega, ironiquement, ce fut leur dernière console. Celle-ci avait une idée unique pour l'époque ou elle est sortie. Car elle avait un écran dans la manette, celle-ci était détacheable et agissait comme une petite console portable.
 
+![Dreamcast_Manette](media/DreamcastManette.jpg)
 
+Sortie en 1998 au Japon et 1999 globalement, la Dreamcast fut l'une des consoles avec le moins de ventes ayant sortie après le crash du marché. Ne s'ayant seulement vendue à 9.13 millions d'unitées, ce qui est pitoyable quand on prend en compte les autres consoles de la compagnie.
 
 
 
