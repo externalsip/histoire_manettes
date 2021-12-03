@@ -6,4 +6,4 @@ Si vous voulez mon avis, le desing des manettes utilisées pour les consoles de 
 
 ## Magnavox Odyssey
 
-![Magnavox_Odyssey_manette]
+![Magnavox_Odyssey_manette](MagnavoxOdysseyManette.jpg)
