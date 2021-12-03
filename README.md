@@ -72,6 +72,12 @@ La seule console avec une manette réelement unique venant de Sega, ironiquement
 
 Sortie en 1998 au Japon et 1999 globalement, la Dreamcast fut l'une des consoles avec le moins de ventes ayant sortie après le crash du marché. Ne s'ayant seulement vendue à 9.13 millions d'unitées, ce qui est pitoyable quand on prend en compte les autres consoles de la compagnie.
 
+## Gamecube
+
+La manette de la Nintendo Gamecube est une manette encore utilisée par certains jeux, Super Smash Bros pour être plus précis, cette manette est très bonne, mais en même temps ne fait pas beaucoup de sense, certaines choses sont étranges sur cette manette, l'absence d'un second bouton z, Le D-Pad est beaucoup trop sensible et petit et Le joystick C est très petit.
+
+![Gamecube_Manette](media/
+
 
 
 
