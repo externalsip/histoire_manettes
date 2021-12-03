@@ -100,7 +100,15 @@ Le Gamepad était plus ou moins la seule différence matérielle entre la Wii et
 
 ## Playstation 5
 
-La manette de la console la plus récente, 
+La manette de la console la plus récente, Maintenant plus appelé DualShock, mais DualSense, c'est la première fois qu'une manette de Playstation change sérieusement de design depuis la première DualShock. Avec cette manette, il y a beaucoup de choses qui n'étaient pas possible avant. Comme les gachettes adaptives.
+
+![Ps5_controller](media/Ps5Manette.webp)
+
+Sortie le 12 novembre 2020, la console a été très, très populaire, dépassant déjà les ventes de la Wii U après seulement un an.
+
+## En conclusion
+
+Pour finir, l'évolution des manettes de consoles est un sujet que je trouve intéressant, avec chaque génération, les technologies ont avancées, et aujourd'hui il y a quasiment autant de choses dans la manette que dans la console en elle-même.
 
 
 
