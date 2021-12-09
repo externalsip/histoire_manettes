@@ -38,7 +38,7 @@ Publiée par Atari en 1977, la console a vendue 30 Millions d'unitées, elle a �
 
 ## Nintendo Entertainment System
 
-La première console publiée par l'un des producteurs encore existants aujourd'hui, sortie originalement en 1983 avec un design totalement différent, sous le nom du family computer (Famicom) Les seules différences majeures entre la version japonaise et la version globale de la console se trouvent dans les manettes. Car il n'était pas possible de les débrancher de la console, les fils étaient d'ailleurs très cours car la plupart des japonais jouaient avec la console alors qu'ils étaient assis par terre. Également, la seconde manette était équipée d'un microphone.
+La première console publiée par l'un des producteurs encore existants aujourd'hui, sortie originalement en 1983 avec un design totalement différent, sous le nom du family computer (Famicom) Les seules différences majeures entre la version japonaise et la version globale de la console se trouvent dans les manettes. Car il n'était pas possible de les débrancher de la console, les fils étaient d'ailleurs très cours car la plupart des japonais jouaient avec la console alors qu'ils étaient assis par terre. Également, la seconde manette était équipée d'un microphone à la place des boutons start et select.
 
 ![FamicomManette](media/FamicomManette.jpg)
 
